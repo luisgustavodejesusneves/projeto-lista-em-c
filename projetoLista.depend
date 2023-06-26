@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1687701362 source:c:\users\luisg\onedrive\documentos\3-faculdade\estrutura de dados (ed1d2)\projeto\projetolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1687702682 source:c:\users\luisg\onedrive\documentos\3-faculdade\estrutura de dados (ed1d2)\projeto\projetolista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	<ctype.h>
+
+1687116805 c:\users\luisg\onedrive\documentos\3-faculdade\estrutura de dados (ed1d2)\projeto\projetolista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
