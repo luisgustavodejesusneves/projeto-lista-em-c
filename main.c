@@ -1,3 +1,6 @@
+// Luis Gustavo de Jesus das Neves - GU 30345658
+// Camile de Jesus Nascimento
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
